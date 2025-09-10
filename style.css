@@ -5,6 +5,8 @@ body {
 
 a {
     display: block;
+    color: blue;
+    text-decoration: none;
 }
 
 h1 {
@@ -38,10 +40,12 @@ pre {
     white-space: pre;
     margin-block: 1em 1em;
     margin-inline: 0px;
+    line-height: 1.6;
 }
 
 a:-webkit-any-link {
     color: -webkit-link;
     cursor: pointer;
     text-decoration: underline;
+
 }
