@@ -1,6 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #fff;
+    background-color: #000;
     color: #000;
     margin: 0;
     padding: 20px;
@@ -10,6 +10,7 @@ body {
 h1 {
     font-size: 1.5em;
     margin-bottom: 10px;
+    color: #fff;
 }
 
 hr {
@@ -20,7 +21,7 @@ hr {
 
 a {
     display: block;
-    color: #0066cc;
+    color: #fff;
     text-decoration: none;
     margin-bottom: 12px;
     word-wrap: break-word;
